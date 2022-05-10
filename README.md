@@ -1,8 +1,8 @@
 
-## Olá! Eu sou o Diego Pancera
+## Hellow! My name is Diego Pancera
 
-- 🔭 Hoje trabalho com front-end (React)
-- 🌱 Estudando NodeJS
+- 🔭 Currently I work with front-end (React)
+- 🌱 Improving NodeJS
 
 <br>
 <div align="center">
