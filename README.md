@@ -1,8 +1,15 @@
 
-## Hello! My name is Diego Pancera
+## Hi dev! I'm Diego Pancera and welcome to my profile :D
 
-- 🔭 Currently I work with front-end (React/Nextjs)
-- 🌱 Improving NodeJS
+**First, some important things about me.**
+
+- I'm from São Paulo, Brazil, I'm 30 years old.
+- I have been working as a Front-End for 8 years.
+- Currently I work with Front-End Nextjs and Back-End development
+- I have a master's degree in Computer Science.
+- I love cats and likes any animal
+- My English level is B2+ and I continue to improve
+- I want to find a job outside Brazil to broaden my horizons
 
 <br>
 <div align="center">
