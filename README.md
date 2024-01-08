@@ -1,7 +1,7 @@
 
-## Hellow! My name is Diego Pancera
+## Hello! My name is Diego Pancera
 
-- 🔭 Currently I work with front-end (React)
+- 🔭 Currently I work with front-end (React/Nextjs)
 - 🌱 Improving NodeJS
 
 <br>
